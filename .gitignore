@@ -1,0 +1,4 @@
+*.pt
+venv/
+_pycache_/
+uploads/
